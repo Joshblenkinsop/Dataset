@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Teach</folder>
+	<filename>crowsnest.jpg.pc-adaptive.480.high.jpg</filename>
+	<path>C:\Users\joshb\OneDrive\Desktop\Aircraft model\Merlin\Teach\crowsnest.jpg.pc-adaptive.480.high.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>213</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Merlin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>7</ymin>
+			<xmax>466</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

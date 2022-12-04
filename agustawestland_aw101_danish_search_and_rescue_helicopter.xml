@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Teach</folder>
+	<filename>agustawestland_aw101_danish_search_and_rescue_helicopter.jpg</filename>
+	<path>C:\Users\joshb\OneDrive\Desktop\Aircraft model\Merlin\Teach\agustawestland_aw101_danish_search_and_rescue_helicopter.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Merlin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>480</xmin>
+			<ymin>95</ymin>
+			<xmax>1506</xmax>
+			<ymax>635</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Merlin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>633</ymin>
+			<xmax>965</xmax>
+			<ymax>1070</ymax>
+		</bndbox>
+	</object>
+</annotation>

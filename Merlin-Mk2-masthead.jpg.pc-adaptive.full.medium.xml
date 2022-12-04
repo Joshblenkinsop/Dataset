@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Teach</folder>
+	<filename>Merlin-Mk2-masthead.jpg.pc-adaptive.full.medium.jpeg</filename>
+	<path>C:\Users\joshb\OneDrive\Desktop\Aircraft model\Merlin\Teach\Merlin-Mk2-masthead.jpg.pc-adaptive.full.medium.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>749</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Merlin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>231</xmin>
+			<ymin>210</ymin>
+			<xmax>1182</xmax>
+			<ymax>629</ymax>
+		</bndbox>
+	</object>
+</annotation>

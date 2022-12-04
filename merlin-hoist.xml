@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Teach</folder>
+	<filename>merlin-hoist.jpg</filename>
+	<path>C:\Users\joshb\OneDrive\Desktop\Aircraft model\Merlin\Teach\merlin-hoist.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>447</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Merlin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>41</ymin>
+			<xmax>494</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

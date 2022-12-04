@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Teach</folder>
+	<filename>AW101-0265-02.jpg</filename>
+	<path>C:\Users\joshb\OneDrive\Desktop\Aircraft model\Merlin\Teach\AW101-0265-02.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>924</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Merlin</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>39</ymin>
+			<xmax>2400</xmax>
+			<ymax>853</ymax>
+		</bndbox>
+	</object>
+</annotation>

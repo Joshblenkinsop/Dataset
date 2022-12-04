@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Teach</folder>
+	<filename>4K7YC7YYEVCK7I2WRZJHL7S2OU.jpg</filename>
+	<path>C:\Users\joshb\OneDrive\Desktop\Aircraft model\F35\Teach\4K7YC7YYEVCK7I2WRZJHL7S2OU.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>537</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F35</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>73</ymin>
+			<xmax>975</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

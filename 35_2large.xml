@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Teach</folder>
+	<filename>35_2large.jpg</filename>
+	<path>C:\Users\joshb\OneDrive\Desktop\Aircraft model\Sea king\Teach\35_2large.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>959</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sea King</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>208</ymin>
+			<xmax>959</xmax>
+			<ymax>824</ymax>
+		</bndbox>
+	</object>
+</annotation>

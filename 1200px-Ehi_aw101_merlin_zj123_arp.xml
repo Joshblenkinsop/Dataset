@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Teach</folder>
+	<filename>1200px-Ehi_aw101_merlin_zj123_arp.jpg</filename>
+	<path>C:\Users\joshb\OneDrive\Desktop\Aircraft model\Merlin\Teach\1200px-Ehi_aw101_merlin_zj123_arp.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>834</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Merlin</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>81</ymin>
+			<xmax>1198</xmax>
+			<ymax>680</ymax>
+		</bndbox>
+	</object>
+</annotation>

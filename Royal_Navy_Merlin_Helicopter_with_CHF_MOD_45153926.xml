@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Teach</folder>
+	<filename>Royal_Navy_Merlin_Helicopter_with_CHF_MOD_45153926.jpg</filename>
+	<path>C:\Users\joshb\OneDrive\Desktop\Aircraft model\Merlin\Teach\Royal_Navy_Merlin_Helicopter_with_CHF_MOD_45153926.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>1969</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Merlin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>98</ymin>
+			<xmax>2639</xmax>
+			<ymax>1237</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Teach</folder>
+	<filename>b25lY21zOmE0NTg4ZWQyLTQwYjQtNDAzNi05MWE4LTYwZjFlM2ZjOWYwNjo0NzlhY2EzNy0wMTM4LTQ3NGEtODUwZS0yOGUxYTY0NmEwODg=.jpg</filename>
+	<path>C:\Users\joshb\OneDrive\Desktop\Aircraft model\Merlin\Teach\b25lY21zOmE0NTg4ZWQyLTQwYjQtNDAzNi05MWE4LTYwZjFlM2ZjOWYwNjo0NzlhY2EzNy0wMTM4LTQ3NGEtODUwZS0yOGUxYTY0NmEwODg=.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>426</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Merlin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>127</ymin>
+			<xmax>476</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

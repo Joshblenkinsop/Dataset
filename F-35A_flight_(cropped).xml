@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Teach</folder>
+	<filename>F-35A_flight_(cropped).jpg</filename>
+	<path>C:\Users\joshb\OneDrive\Desktop\Aircraft model\F35\Teach\F-35A_flight_(cropped).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>861</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F35</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>59</ymin>
+			<xmax>1162</xmax>
+			<ymax>736</ymax>
+		</bndbox>
+	</object>
+</annotation>
